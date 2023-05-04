@@ -1,0 +1,277 @@
+VariableName,Value,ValueLabel
+State abbreviation (HD2021),AL,Alabama
+State abbreviation (HD2021),AK,Alaska
+State abbreviation (HD2021),AZ,Arizona
+State abbreviation (HD2021),AR,Arkansas
+State abbreviation (HD2021),CA,California
+State abbreviation (HD2021),CO,Colorado
+State abbreviation (HD2021),CT,Connecticut
+State abbreviation (HD2021),DE,Delaware
+State abbreviation (HD2021),DC,District of Columbia
+State abbreviation (HD2021),FL,Florida
+State abbreviation (HD2021),GA,Georgia
+State abbreviation (HD2021),HI,Hawaii
+State abbreviation (HD2021),ID,Idaho
+State abbreviation (HD2021),IL,Illinois
+State abbreviation (HD2021),IN,Indiana
+State abbreviation (HD2021),IA,Iowa
+State abbreviation (HD2021),KS,Kansas
+State abbreviation (HD2021),KY,Kentucky
+State abbreviation (HD2021),LA,Louisiana
+State abbreviation (HD2021),ME,Maine
+State abbreviation (HD2021),MD,Maryland
+State abbreviation (HD2021),MA,Massachusetts
+State abbreviation (HD2021),MI,Michigan
+State abbreviation (HD2021),MN,Minnesota
+State abbreviation (HD2021),MS,Mississippi
+State abbreviation (HD2021),MO,Missouri
+State abbreviation (HD2021),MT,Montana
+State abbreviation (HD2021),NE,Nebraska
+State abbreviation (HD2021),NV,Nevada
+State abbreviation (HD2021),NH,New Hampshire
+State abbreviation (HD2021),NJ,New Jersey
+State abbreviation (HD2021),NM,New Mexico
+State abbreviation (HD2021),NY,New York
+State abbreviation (HD2021),NC,North Carolina
+State abbreviation (HD2021),ND,North Dakota
+State abbreviation (HD2021),OH,Ohio
+State abbreviation (HD2021),OK,Oklahoma
+State abbreviation (HD2021),OR,Oregon
+State abbreviation (HD2021),PA,Pennsylvania
+State abbreviation (HD2021),RI,Rhode Island
+State abbreviation (HD2021),SC,South Carolina
+State abbreviation (HD2021),SD,South Dakota
+State abbreviation (HD2021),TN,Tennessee
+State abbreviation (HD2021),TX,Texas
+State abbreviation (HD2021),UT,Utah
+State abbreviation (HD2021),VT,Vermont
+State abbreviation (HD2021),VA,Virginia
+State abbreviation (HD2021),WA,Washington
+State abbreviation (HD2021),WV,West Virginia
+State abbreviation (HD2021),WI,Wisconsin
+State abbreviation (HD2021),WY,Wyoming
+State abbreviation (HD2021),AS,American Samoa
+State abbreviation (HD2021),FM,Federated States of Micronesia
+State abbreviation (HD2021),GU,Guam
+State abbreviation (HD2021),MH,Marshall Islands
+State abbreviation (HD2021),MP,Northern Marianas
+State abbreviation (HD2021),PW,Palau
+State abbreviation (HD2021),PR,Puerto Rico
+State abbreviation (HD2021),VI,Virgin Islands
+Highest level of offering (HD2021),1,Award of less than one academic year
+Highest level of offering (HD2021),2,"At least 1, but less than 2 academic yrs"
+Highest level of offering (HD2021),3,Associate's degree
+Highest level of offering (HD2021),4,"At least 2, but less than 4 academic yrs"
+Highest level of offering (HD2021),5,Bachelor's degree
+Highest level of offering (HD2021),6,Postbaccalaureate certificate
+Highest level of offering (HD2021),7,Master's degree
+Highest level of offering (HD2021),8,Post-master's certificate
+Highest level of offering (HD2021),9,Doctor's degree
+Undergraduate offering (HD2021),1,Undergraduate degree or certificate offering
+Undergraduate offering (HD2021),2,No undergraduate offering
+Graduate offering (HD2021),1,Graduate degree or certificate offering
+Graduate offering (HD2021),2,No graduate offering
+Institutional category (HD2021),1,"Degree-granting, graduate with no undergraduate degrees"
+Institutional category (HD2021),2,"Degree-granting, primarily baccalaureate or above"
+Institutional category (HD2021),3,"Degree-granting, not primarily baccalaureate or above"
+Institutional category (HD2021),4,"Degree-granting, associate's and certificates 
+"
+Institutional category (HD2021),5,"Nondegree-granting, above the baccalaureate"
+Institutional category (HD2021),6,"Nondegree-granting, sub-baccalaureate"
+Institutional category (HD2021),-1,Not reported
+Institutional category (HD2021),-2,Not applicable
+Open admission policy (IC2021),1,Yes
+Open admission policy (IC2021),2,No
+Open admission policy (IC2021),-2,Not applicable
+Secondary school GPA (ADM2021),1,Required
+Secondary school GPA (ADM2021),5,Considered but not required
+Secondary school GPA (ADM2021),2,Recommended
+Secondary school GPA (ADM2021),3,Neither required nor recommended
+Secondary school rank (ADM2021),1,Required
+Secondary school rank (ADM2021),5,Considered but not required
+Secondary school rank (ADM2021),2,Recommended
+Secondary school rank (ADM2021),3,Neither required nor recommended
+Secondary school record (ADM2021),1,Required
+Secondary school record (ADM2021),5,Considered but not required
+Secondary school record (ADM2021),2,Recommended
+Secondary school record (ADM2021),3,Neither required nor recommended
+Completion of college-preparatory program (ADM2021),1,Required
+Completion of college-preparatory program (ADM2021),5,Considered but not required
+Completion of college-preparatory program (ADM2021),2,Recommended
+Completion of college-preparatory program (ADM2021),3,Neither required nor recommended
+Recommendations (ADM2021),1,Required
+Recommendations (ADM2021),5,Considered but not required
+Recommendations (ADM2021),2,Recommended
+Recommendations (ADM2021),3,Neither required nor recommended
+Formal demonstration of competencies (ADM2021),1,Required
+Formal demonstration of competencies (ADM2021),5,Considered but not required
+Formal demonstration of competencies (ADM2021),2,Recommended
+Formal demonstration of competencies (ADM2021),3,Neither required nor recommended
+Admission test scores (ADM2021),1,Required
+Admission test scores (ADM2021),5,Considered but not required
+Admission test scores (ADM2021),2,Recommended
+Admission test scores (ADM2021),3,Neither required nor recommended
+TOEFL (Test of English as a Foreign Language (ADM2021),1,Required
+TOEFL (Test of English as a Foreign Language (ADM2021),5,Considered but not required
+TOEFL (Test of English as a Foreign Language (ADM2021),2,Recommended
+TOEFL (Test of English as a Foreign Language (ADM2021),3,Neither required nor recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2021)",1,Required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2021)",5,Considered but not required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2021)",2,Recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2021)",3,Neither required nor recommended
+Open admission policy (IC2020),1,Yes
+Open admission policy (IC2020),2,No
+Open admission policy (IC2020),-2,Not applicable
+Secondary school GPA (ADM2020_RV),1,Required
+Secondary school GPA (ADM2020_RV),5,Considered but not required
+Secondary school GPA (ADM2020_RV),2,Recommended
+Secondary school GPA (ADM2020_RV),3,Neither required nor recommended
+Secondary school rank (ADM2020_RV),1,Required
+Secondary school rank (ADM2020_RV),5,Considered but not required
+Secondary school rank (ADM2020_RV),2,Recommended
+Secondary school rank (ADM2020_RV),3,Neither required nor recommended
+Secondary school record (ADM2020_RV),1,Required
+Secondary school record (ADM2020_RV),5,Considered but not required
+Secondary school record (ADM2020_RV),2,Recommended
+Secondary school record (ADM2020_RV),3,Neither required nor recommended
+Completion of college-preparatory program (ADM2020_RV),1,Required
+Completion of college-preparatory program (ADM2020_RV),5,Considered but not required
+Completion of college-preparatory program (ADM2020_RV),2,Recommended
+Completion of college-preparatory program (ADM2020_RV),3,Neither required nor recommended
+Recommendations (ADM2020_RV),1,Required
+Recommendations (ADM2020_RV),5,Considered but not required
+Recommendations (ADM2020_RV),2,Recommended
+Recommendations (ADM2020_RV),3,Neither required nor recommended
+Formal demonstration of competencies (ADM2020_RV),1,Required
+Formal demonstration of competencies (ADM2020_RV),5,Considered but not required
+Formal demonstration of competencies (ADM2020_RV),2,Recommended
+Formal demonstration of competencies (ADM2020_RV),3,Neither required nor recommended
+Admission test scores (ADM2020_RV),1,Required
+Admission test scores (ADM2020_RV),5,Considered but not required
+Admission test scores (ADM2020_RV),2,Recommended
+Admission test scores (ADM2020_RV),3,Neither required nor recommended
+TOEFL (Test of English as a Foreign Language (ADM2020_RV),1,Required
+TOEFL (Test of English as a Foreign Language (ADM2020_RV),5,Considered but not required
+TOEFL (Test of English as a Foreign Language (ADM2020_RV),2,Recommended
+TOEFL (Test of English as a Foreign Language (ADM2020_RV),3,Neither required nor recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2020_RV)",1,Required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2020_RV)",5,Considered but not required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2020_RV)",2,Recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2020_RV)",3,Neither required nor recommended
+Open admission policy (IC2019),1,Yes
+Open admission policy (IC2019),2,No
+Open admission policy (IC2019),-2,Not applicable
+Secondary school GPA (ADM2019_RV),1,Required
+Secondary school GPA (ADM2019_RV),5,Considered but not required
+Secondary school GPA (ADM2019_RV),2,Recommended
+Secondary school GPA (ADM2019_RV),3,Neither required nor recommended
+Secondary school rank (ADM2019_RV),1,Required
+Secondary school rank (ADM2019_RV),5,Considered but not required
+Secondary school rank (ADM2019_RV),2,Recommended
+Secondary school rank (ADM2019_RV),3,Neither required nor recommended
+Secondary school record (ADM2019_RV),1,Required
+Secondary school record (ADM2019_RV),5,Considered but not required
+Secondary school record (ADM2019_RV),2,Recommended
+Secondary school record (ADM2019_RV),3,Neither required nor recommended
+Completion of college-preparatory program (ADM2019_RV),1,Required
+Completion of college-preparatory program (ADM2019_RV),5,Considered but not required
+Completion of college-preparatory program (ADM2019_RV),2,Recommended
+Completion of college-preparatory program (ADM2019_RV),3,Neither required nor recommended
+Recommendations (ADM2019_RV),1,Required
+Recommendations (ADM2019_RV),5,Considered but not required
+Recommendations (ADM2019_RV),2,Recommended
+Recommendations (ADM2019_RV),3,Neither required nor recommended
+Formal demonstration of competencies (ADM2019_RV),1,Required
+Formal demonstration of competencies (ADM2019_RV),5,Considered but not required
+Formal demonstration of competencies (ADM2019_RV),2,Recommended
+Formal demonstration of competencies (ADM2019_RV),3,Neither required nor recommended
+Admission test scores (ADM2019_RV),1,Required
+Admission test scores (ADM2019_RV),5,Considered but not required
+Admission test scores (ADM2019_RV),2,Recommended
+Admission test scores (ADM2019_RV),3,Neither required nor recommended
+TOEFL (Test of English as a Foreign Language (ADM2019_RV),1,Required
+TOEFL (Test of English as a Foreign Language (ADM2019_RV),5,Considered but not required
+TOEFL (Test of English as a Foreign Language (ADM2019_RV),2,Recommended
+TOEFL (Test of English as a Foreign Language (ADM2019_RV),3,Neither required nor recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2019_RV)",1,Required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2019_RV)",5,Considered but not required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2019_RV)",2,Recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2019_RV)",3,Neither required nor recommended
+Open admission policy (IC2018),1,Yes
+Open admission policy (IC2018),2,No
+Open admission policy (IC2018),-2,Not applicable
+Secondary school GPA (ADM2018_RV),1,Required
+Secondary school GPA (ADM2018_RV),5,Considered but not required
+Secondary school GPA (ADM2018_RV),2,Recommended
+Secondary school GPA (ADM2018_RV),3,Neither required nor recommended
+Secondary school rank (ADM2018_RV),1,Required
+Secondary school rank (ADM2018_RV),5,Considered but not required
+Secondary school rank (ADM2018_RV),2,Recommended
+Secondary school rank (ADM2018_RV),3,Neither required nor recommended
+Secondary school record (ADM2018_RV),1,Required
+Secondary school record (ADM2018_RV),5,Considered but not required
+Secondary school record (ADM2018_RV),2,Recommended
+Secondary school record (ADM2018_RV),3,Neither required nor recommended
+Completion of college-preparatory program (ADM2018_RV),1,Required
+Completion of college-preparatory program (ADM2018_RV),5,Considered but not required
+Completion of college-preparatory program (ADM2018_RV),2,Recommended
+Completion of college-preparatory program (ADM2018_RV),3,Neither required nor recommended
+Recommendations (ADM2018_RV),1,Required
+Recommendations (ADM2018_RV),5,Considered but not required
+Recommendations (ADM2018_RV),2,Recommended
+Recommendations (ADM2018_RV),3,Neither required nor recommended
+Formal demonstration of competencies (ADM2018_RV),1,Required
+Formal demonstration of competencies (ADM2018_RV),5,Considered but not required
+Formal demonstration of competencies (ADM2018_RV),2,Recommended
+Formal demonstration of competencies (ADM2018_RV),3,Neither required nor recommended
+Admission test scores (ADM2018_RV),1,Required
+Admission test scores (ADM2018_RV),5,Considered but not required
+Admission test scores (ADM2018_RV),2,Recommended
+Admission test scores (ADM2018_RV),3,Neither required nor recommended
+TOEFL (Test of English as a Foreign Language (ADM2018_RV),1,Required
+TOEFL (Test of English as a Foreign Language (ADM2018_RV),5,Considered but not required
+TOEFL (Test of English as a Foreign Language (ADM2018_RV),2,Recommended
+TOEFL (Test of English as a Foreign Language (ADM2018_RV),3,Neither required nor recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2018_RV)",1,Required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2018_RV)",5,Considered but not required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2018_RV)",2,Recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2018_RV)",3,Neither required nor recommended
+Open admission policy (IC2017),1,Yes
+Open admission policy (IC2017),2,No
+Open admission policy (IC2017),-2,Not applicable
+Secondary school GPA (ADM2017_RV),1,Required
+Secondary school GPA (ADM2017_RV),5,Considered but not required
+Secondary school GPA (ADM2017_RV),2,Recommended
+Secondary school GPA (ADM2017_RV),3,Neither required nor recommended
+Secondary school rank (ADM2017_RV),1,Required
+Secondary school rank (ADM2017_RV),5,Considered but not required
+Secondary school rank (ADM2017_RV),2,Recommended
+Secondary school rank (ADM2017_RV),3,Neither required nor recommended
+Secondary school record (ADM2017_RV),1,Required
+Secondary school record (ADM2017_RV),5,Considered but not required
+Secondary school record (ADM2017_RV),2,Recommended
+Secondary school record (ADM2017_RV),3,Neither required nor recommended
+Completion of college-preparatory program (ADM2017_RV),1,Required
+Completion of college-preparatory program (ADM2017_RV),5,Considered but not required
+Completion of college-preparatory program (ADM2017_RV),2,Recommended
+Completion of college-preparatory program (ADM2017_RV),3,Neither required nor recommended
+Recommendations (ADM2017_RV),1,Required
+Recommendations (ADM2017_RV),5,Considered but not required
+Recommendations (ADM2017_RV),2,Recommended
+Recommendations (ADM2017_RV),3,Neither required nor recommended
+Formal demonstration of competencies (ADM2017_RV),1,Required
+Formal demonstration of competencies (ADM2017_RV),5,Considered but not required
+Formal demonstration of competencies (ADM2017_RV),2,Recommended
+Formal demonstration of competencies (ADM2017_RV),3,Neither required nor recommended
+Admission test scores (ADM2017_RV),1,Required
+Admission test scores (ADM2017_RV),5,Considered but not required
+Admission test scores (ADM2017_RV),2,Recommended
+Admission test scores (ADM2017_RV),3,Neither required nor recommended
+TOEFL (Test of English as a Foreign Language (ADM2017_RV),1,Required
+TOEFL (Test of English as a Foreign Language (ADM2017_RV),5,Considered but not required
+TOEFL (Test of English as a Foreign Language (ADM2017_RV),2,Recommended
+TOEFL (Test of English as a Foreign Language (ADM2017_RV),3,Neither required nor recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2017_RV)",1,Required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2017_RV)",5,Considered but not required
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2017_RV)",2,Recommended
+"Other Test (Wonderlic, WISC-III, etc.) (ADM2017_RV)",3,Neither required nor recommended
