@@ -1,0 +1,366 @@
+UnitID,unit_id,unit_id
+Institution Name_x,name,name
+Open admission policy (IC2021),,
+Secondary school GPA (ADM2021),,
+Secondary school rank (ADM2021),,
+Secondary school record (ADM2021),,
+Completion of college-preparatory program (ADM2021),,
+Recommendations (ADM2021),,
+Formal demonstration of competencies (ADM2021),,
+Admission test scores (ADM2021),,
+Other Test (Wonderlic  WISC-III  etc.) (ADM2021),,
+TOEFL (Test of English as a Foreign Language (ADM2021),,
+Open admission policy (IC2020),,
+Secondary school GPA (ADM2020_RV),,
+Secondary school rank (ADM2020_RV),,
+Secondary school record (ADM2020_RV),,
+Completion of college-preparatory program (ADM2020_RV),,
+Recommendations (ADM2020_RV),,
+Formal demonstration of competencies (ADM2020_RV),,
+Admission test scores (ADM2020_RV),,
+Other Test (Wonderlic  WISC-III  etc.) (ADM2020_RV),,
+TOEFL (Test of English as a Foreign Language (ADM2020_RV),,
+Open admission policy (IC2019),,
+Secondary school GPA (ADM2019_RV),,
+Secondary school rank (ADM2019_RV),,
+Secondary school record (ADM2019_RV),,
+Completion of college-preparatory program (ADM2019_RV),,
+Recommendations (ADM2019_RV),,
+Formal demonstration of competencies (ADM2019_RV),,
+Admission test scores (ADM2019_RV),,
+Other Test (Wonderlic  WISC-III  etc.) (ADM2019_RV),,
+TOEFL (Test of English as a Foreign Language (ADM2019_RV),,
+Open admission policy (IC2018),,
+Secondary school GPA (ADM2018_RV),,
+Secondary school rank (ADM2018_RV),,
+Secondary school record (ADM2018_RV),,
+Completion of college-preparatory program (ADM2018_RV),,
+Recommendations (ADM2018_RV),,
+Formal demonstration of competencies (ADM2018_RV),,
+Admission test scores (ADM2018_RV),,
+Other Test (Wonderlic  WISC-III  etc.) (ADM2018_RV),,
+TOEFL (Test of English as a Foreign Language (ADM2018_RV),,
+Open admission policy (IC2017),,
+Secondary school GPA (ADM2017_RV),,
+Secondary school rank (ADM2017_RV),,
+Secondary school record (ADM2017_RV),,
+Completion of college-preparatory program (ADM2017_RV),,
+Recommendations (ADM2017_RV),,
+Formal demonstration of competencies (ADM2017_RV),,
+Admission test scores (ADM2017_RV),,
+Other Test (Wonderlic  WISC-III  etc.) (ADM2017_RV),,
+TOEFL (Test of English as a Foreign Language (ADM2017_RV),,
+Unnamed: 52,,
+Institution Name_y,,
+Applicants total (ADM2021),applicants_total_2021,applicants_total
+Applicants men (ADM2021),applicants_men_2021,applicants_men
+Applicants women (ADM2021),applicants_women_2021,applicants_women
+Admissions total (ADM2021),admissions_total_2021,admissions_total
+Admissions men (ADM2021),admissions_men_2021,admissions_men
+Admissions women (ADM2021),admission_women_2021,admission_women
+Enrolled  men (ADM2021),enrolled_men_total_2021,enrolled_men_total
+Enrolled  women (ADM2021),enrolled_women_total_2021,enrolled_women_total
+Enrolled full time total (ADM2021),enrolled_ft_total_2021,enrolled_ft_total
+Enrolled full time men (ADM2021),enrolled_ft_men_total_2021,enrolled_ft_men_total
+Enrolled full time women (ADM2021),enrolled_ft_women_total_2021,enrolled_ft_women_total
+Enrolled part time total (ADM2021),enrolled_pt_total_2021,enrolled_pt_total
+Enrolled part time men (ADM2021),enrolled_pt_men_total_2021,enrolled_pt_men_total
+Enrolled part time women (ADM2021),enrolled_pt_women_total_2021,enrolled_pt_women_total
+Enrolled total (ADM2021),enrolled_total_2021,enrolled_total
+Applicants total (ADM2020_RV),applicants_total_2020,applicants_total
+Applicants men (ADM2020_RV),applicants_men_2020,applicants_men
+Applicants women (ADM2020_RV),applicants_women_2020,applicants_women
+Admissions total (ADM2020_RV),admissions_total_2020,admissions_total
+Admissions men (ADM2020_RV),admissions_men_2020,admissions_men
+Admissions women (ADM2020_RV),admission_women_2020,admission_women
+Enrolled  men (ADM2020_RV),enrolled_men_total_2020,enrolled_men_total
+Enrolled  women (ADM2020_RV),enrolled_women_total_2020,enrolled_women_total
+Enrolled full time total (ADM2020_RV),enrolled_ft_total_2020,enrolled_ft_total
+Enrolled full time men (ADM2020_RV),enrolled_ft_men_total_2020,enrolled_ft_men_total
+Enrolled full time women (ADM2020_RV),enrolled_ft_women_total_2020,enrolled_ft_women_total
+Enrolled part time total (ADM2020_RV),enrolled_pt_total_2020,enrolled_pt_total
+Enrolled part time men (ADM2020_RV),enrolled_pt_men_total_2020,enrolled_pt_men_total
+Enrolled part time women (ADM2020_RV),enrolled_pt_women_total_2020,enrolled_pt_women_total
+Enrolled total (ADM2020_RV),enrolled_total_2020,enrolled_total
+Applicants total (ADM2019_RV),applicants_total_2019,applicants_total
+Applicants men (ADM2019_RV),applicants_men_2019,applicants_men
+Applicants women (ADM2019_RV),applicants_women_2019,applicants_women
+Admissions total (ADM2019_RV),admissions_total_2019,admissions_total
+Admissions men (ADM2019_RV),admissions_men_2019,admissions_men
+Admissions women (ADM2019_RV),admission_women_2019,admission_women
+Enrolled  men (ADM2019_RV),enrolled_men_total_2019,enrolled_men_total
+Enrolled  women (ADM2019_RV),enrolled_women_total_2019,enrolled_women_total
+Enrolled full time total (ADM2019_RV),enrolled_ft_total_2019,enrolled_ft_total
+Enrolled full time men (ADM2019_RV),enrolled_ft_men_total_2019,enrolled_ft_men_total
+Enrolled full time women (ADM2019_RV),enrolled_ft_women_total_2019,enrolled_ft_women_total
+Enrolled part time total (ADM2019_RV),enrolled_pt_total_2019,enrolled_pt_total
+Enrolled part time men (ADM2019_RV),enrolled_pt_men_total_2019,enrolled_pt_men_total
+Enrolled part time women (ADM2019_RV),enrolled_pt_women_total_2019,enrolled_pt_women_total
+Enrolled total (ADM2019_RV),enrolled_total_2019,enrolled_total
+Applicants total (ADM2018_RV),applicants_total_2018,applicants_total
+Applicants men (ADM2018_RV),applicants_men_2018,applicants_men
+Applicants women (ADM2018_RV),applicants_women_2018,applicants_women
+Admissions total (ADM2018_RV),admissions_total_2018,admissions_total
+Admissions men (ADM2018_RV),admissions_men_2018,admissions_men
+Admissions women (ADM2018_RV),admission_women_2018,admission_women
+Enrolled  men (ADM2018_RV),enrolled_men_total_2018,enrolled_men_total
+Enrolled  women (ADM2018_RV),enrolled_women_total_2018,enrolled_women_total
+Enrolled full time total (ADM2018_RV),enrolled_ft_total_2018,enrolled_ft_total
+Enrolled full time men (ADM2018_RV),enrolled_ft_men_total_2018,enrolled_ft_men_total
+Enrolled full time women (ADM2018_RV),enrolled_ft_women_total_2018,enrolled_ft_women_total
+Enrolled part time total (ADM2018_RV),enrolled_pt_total_2018,enrolled_pt_total
+Enrolled part time men (ADM2018_RV),enrolled_pt_men_total_2018,enrolled_pt_men_total
+Enrolled part time women (ADM2018_RV),enrolled_pt_women_total_2018,enrolled_pt_women_total
+Enrolled total (ADM2018_RV),enrolled_total_2018,enrolled_total
+Applicants total (ADM2017_RV),applicants_total_2017,applicants_total
+Applicants men (ADM2017_RV),applicants_men_2017,applicants_men
+Applicants women (ADM2017_RV),applicants_women_2017,applicants_women
+Admissions total (ADM2017_RV),admissions_total_2017,admissions_total
+Admissions men (ADM2017_RV),admissions_men_2017,admissions_men
+Admissions women (ADM2017_RV),admission_women_2017,admission_women
+Enrolled  men (ADM2017_RV),enrolled_men_total_2017,enrolled_men_total
+Enrolled  women (ADM2017_RV),enrolled_women_total_2017,enrolled_women_total
+Enrolled full time total (ADM2017_RV),enrolled_ft_total_2017,enrolled_ft_total
+Enrolled full time men (ADM2017_RV),enrolled_ft_men_total_2017,enrolled_ft_men_total
+Enrolled full time women (ADM2017_RV),enrolled_ft_women_total_2017,enrolled_ft_women_total
+Enrolled part time total (ADM2017_RV),enrolled_pt_total_2017,enrolled_pt_total
+Enrolled part time men (ADM2017_RV),enrolled_pt_men_total_2017,enrolled_pt_men_total
+Enrolled part time women (ADM2017_RV),enrolled_pt_women_total_2017,enrolled_pt_women_total
+Enrolled total (ADM2017_RV),enrolled_total_2017,enrolled_total
+Institution Name_tuition,,
+Grand total (EF2021A  All students  Graduate),grand_total_2021,grand_total
+Grand total men (EF2021A  All students  Graduate),grand_total_men_2021,grand_total_men
+Grand total women (EF2021A  All students  Graduate),grand_total_women_2021,grand_total_women
+American Indian or Alaska Native total (EF2021A  All students  Graduate),am_ind_alaska_total_2021,am_ind_alaska_total
+American Indian or Alaska Native men (EF2021A  All students  Graduate),am_ind_alaska_total_men_2021,am_ind_alaska_total_men
+American Indian or Alaska Native women (EF2021A  All students  Graduate),am_ind_alaska_total_women_2021,am_ind_alaska_total_women
+Asian total (EF2021A  All students  Graduate),asian_total_2021,asian_total
+Asian men (EF2021A  All students  Graduate),asian_men_2021,asian_men
+Asian women (EF2021A  All students  Graduate),asian_women_2021,asian_women
+Black or African American total (EF2021A  All students  Graduate),bl_af_total_2021,bl_af_total
+Black or African American men (EF2021A  All students  Graduate),bl_af_men_2021,bl_af_men
+Black or African American women (EF2021A  All students  Graduate),bl_af_women_2021,bl_af_women
+Hispanic total (EF2021A  All students  Graduate),hisp_total_2021,hisp_total
+Hispanic men (EF2021A  All students  Graduate),hisp_men_2021,hisp_men
+Hispanic women (EF2021A  All students  Graduate),hisp_women_2021,hisp_women
+Native Hawaiian or Other Pacific Islander total (EF2021A  All students  Graduate),haw_pac_total_2021,haw_pac_total
+Native Hawaiian or Other Pacific Islander men (EF2021A  All students  Graduate),haw_pac_men_2021,haw_pac_men
+Native Hawaiian or Other Pacific Islander women (EF2021A  All students  Graduate),haw_pac_women_2021,haw_pac_women
+White total (EF2021A  All students  Graduate),white_total_2021,white_total
+White men (EF2021A  All students  Graduate),white_men_2021,white_men
+White women (EF2021A  All students  Graduate),white_women_2021,white_women
+Two or more races total (EF2021A  All students  Graduate),two_plus_race_total_2021,two_plus_race_total
+Two or more races men (EF2021A  All students  Graduate),two_plus_race_men_2021,two_plus_race_men
+Two or more races women (EF2021A  All students  Graduate),two_plus_race_women_2021,two_plus_race_women
+Race/ethnicity unknown total (EF2021A  All students  Graduate),unk_total_2021,unk_total
+Race/ethnicity unknown men (EF2021A  All students  Graduate),unk_men_2021,unk_men
+Race/ethnicity unknown women (EF2021A  All students  Graduate),unk_women_2021,unk_women
+Nonresident alien total (EF2021A  All students  Graduate),alien_total_2021,alien_total
+Nonresident alien men (EF2021A  All students  Graduate),alien_men_2021,alien_men
+Nonresident alien women (EF2021A  All students  Graduate),alien_women_2021,alien_women
+Grand total (EF2020A_RV  All students  Graduate),grand_total_2020,grand_total
+Grand total men (EF2020A_RV  All students  Graduate),grand_total_men_2020,grand_total_men
+Grand total women (EF2020A_RV  All students  Graduate),grand_total_women_2020,grand_total_women
+American Indian or Alaska Native total (EF2020A_RV  All students  Graduate),am_ind_alaska_total_2020,am_ind_alaska_total
+American Indian or Alaska Native men (EF2020A_RV  All students  Graduate),am_ind_alaska_total_men_2020,am_ind_alaska_total_men
+American Indian or Alaska Native women (EF2020A_RV  All students  Graduate),am_ind_alaska_total_women_2020,am_ind_alaska_total_women
+Asian total (EF2020A_RV  All students  Graduate),asian_total_2020,asian_total
+Asian men (EF2020A_RV  All students  Graduate),asian_men_2020,asian_men
+Asian women (EF2020A_RV  All students  Graduate),asian_women_2020,asian_women
+Black or African American total (EF2020A_RV  All students  Graduate),bl_af_total_2020,bl_af_total
+Black or African American men (EF2020A_RV  All students  Graduate),bl_af_men_2020,bl_af_men
+Black or African American women (EF2020A_RV  All students  Graduate),bl_af_women_2020,bl_af_women
+Hispanic total (EF2020A_RV  All students  Graduate),hisp_total_2020,hisp_total
+Hispanic men (EF2020A_RV  All students  Graduate),hisp_men_2020,hisp_men
+Hispanic women (EF2020A_RV  All students  Graduate),hisp_women_2020,hisp_women
+Native Hawaiian or Other Pacific Islander total (EF2020A_RV  All students  Graduate),haw_pac_total_2020,haw_pac_total
+Native Hawaiian or Other Pacific Islander men (EF2020A_RV  All students  Graduate),haw_pac_men_2020,haw_pac_men
+Native Hawaiian or Other Pacific Islander women (EF2020A_RV  All students  Graduate),haw_pac_women_2020,haw_pac_women
+White total (EF2020A_RV  All students  Graduate),white_total_2020,white_total
+White men (EF2020A_RV  All students  Graduate),white_men_2020,white_men
+White women (EF2020A_RV  All students  Graduate),white_women_2020,white_women
+Two or more races total (EF2020A_RV  All students  Graduate),two_plus_race_total_2020,two_plus_race_total
+Two or more races men (EF2020A_RV  All students  Graduate),two_plus_race_men_2020,two_plus_race_men
+Two or more races women (EF2020A_RV  All students  Graduate),two_plus_race_women_2020,two_plus_race_women
+Race/ethnicity unknown total (EF2020A_RV  All students  Graduate),unk_total_2020,unk_total
+Race/ethnicity unknown men (EF2020A_RV  All students  Graduate),unk_men_2020,unk_men
+Race/ethnicity unknown women (EF2020A_RV  All students  Graduate),unk_women_2020,unk_women
+Nonresident alien total (EF2020A_RV  All students  Graduate),alien_total_2020,alien_total
+Nonresident alien men (EF2020A_RV  All students  Graduate),alien_men_2020,alien_men
+Nonresident alien women (EF2020A_RV  All students  Graduate),alien_women_2020,alien_women
+Grand total (EF2019A_RV  All students  Graduate),grand_total_2019,grand_total
+Grand total men (EF2019A_RV  All students  Graduate),grand_total_men_2019,grand_total_men
+Grand total women (EF2019A_RV  All students  Graduate),grand_total_women_2019,grand_total_women
+American Indian or Alaska Native total (EF2019A_RV  All students  Graduate),am_ind_alaska_total_2019,am_ind_alaska_total
+American Indian or Alaska Native men (EF2019A_RV  All students  Graduate),am_ind_alaska_total_men_2019,am_ind_alaska_total_men
+American Indian or Alaska Native women (EF2019A_RV  All students  Graduate),am_ind_alaska_total_women_2019,am_ind_alaska_total_women
+Asian total (EF2019A_RV  All students  Graduate),asian_total_2019,asian_total
+Asian men (EF2019A_RV  All students  Graduate),asian_men_2019,asian_men
+Asian women (EF2019A_RV  All students  Graduate),asian_women_2019,asian_women
+Black or African American total (EF2019A_RV  All students  Graduate),bl_af_total_2019,bl_af_total
+Black or African American men (EF2019A_RV  All students  Graduate),bl_af_men_2019,bl_af_men
+Black or African American women (EF2019A_RV  All students  Graduate),bl_af_women_2019,bl_af_women
+Hispanic total (EF2019A_RV  All students  Graduate),hisp_total_2019,hisp_total
+Hispanic men (EF2019A_RV  All students  Graduate),hisp_men_2019,hisp_men
+Hispanic women (EF2019A_RV  All students  Graduate),hisp_women_2019,hisp_women
+Native Hawaiian or Other Pacific Islander total (EF2019A_RV  All students  Graduate),haw_pac_total_2019,haw_pac_total
+Native Hawaiian or Other Pacific Islander men (EF2019A_RV  All students  Graduate),haw_pac_men_2019,haw_pac_men
+Native Hawaiian or Other Pacific Islander women (EF2019A_RV  All students  Graduate),haw_pac_women_2019,haw_pac_women
+White total (EF2019A_RV  All students  Graduate),white_total_2019,white_total
+White men (EF2019A_RV  All students  Graduate),white_men_2019,white_men
+White women (EF2019A_RV  All students  Graduate),white_women_2019,white_women
+Two or more races total (EF2019A_RV  All students  Graduate),two_plus_race_total_2019,two_plus_race_total
+Two or more races men (EF2019A_RV  All students  Graduate),two_plus_race_men_2019,two_plus_race_men
+Two or more races women (EF2019A_RV  All students  Graduate),two_plus_race_women_2019,two_plus_race_women
+Race/ethnicity unknown total (EF2019A_RV  All students  Graduate),unk_total_2019,unk_total
+Race/ethnicity unknown men (EF2019A_RV  All students  Graduate),unk_men_2019,unk_men
+Race/ethnicity unknown women (EF2019A_RV  All students  Graduate),unk_women_2019,unk_women
+Nonresident alien total (EF2019A_RV  All students  Graduate),alien_total_2019,alien_total
+Nonresident alien men (EF2019A_RV  All students  Graduate),alien_men_2019,alien_men
+Nonresident alien women (EF2019A_RV  All students  Graduate),alien_women_2019,alien_women
+Grand total (EF2018A_RV  All students  Graduate),grand_total_2018,grand_total
+Grand total men (EF2018A_RV  All students  Graduate),grand_total_men_2018,grand_total_men
+Grand total women (EF2018A_RV  All students  Graduate),grand_total_women_2018,grand_total_women
+American Indian or Alaska Native total (EF2018A_RV  All students  Graduate),am_ind_alaska_total_2018,am_ind_alaska_total
+American Indian or Alaska Native men (EF2018A_RV  All students  Graduate),am_ind_alaska_total_men_2018,am_ind_alaska_total_men
+American Indian or Alaska Native women (EF2018A_RV  All students  Graduate),am_ind_alaska_total_women_2018,am_ind_alaska_total_women
+Asian total (EF2018A_RV  All students  Graduate),asian_total_2018,asian_total
+Asian men (EF2018A_RV  All students  Graduate),asian_men_2018,asian_men
+Asian women (EF2018A_RV  All students  Graduate),asian_women_2018,asian_women
+Black or African American total (EF2018A_RV  All students  Graduate),bl_af_total_2018,bl_af_total
+Black or African American men (EF2018A_RV  All students  Graduate),bl_af_men_2018,bl_af_men
+Black or African American women (EF2018A_RV  All students  Graduate),bl_af_women_2018,bl_af_women
+Hispanic total (EF2018A_RV  All students  Graduate),hisp_total_2018,hisp_total
+Hispanic men (EF2018A_RV  All students  Graduate),hisp_men_2018,hisp_men
+Hispanic women (EF2018A_RV  All students  Graduate),hisp_women_2018,hisp_women
+Native Hawaiian or Other Pacific Islander total (EF2018A_RV  All students  Graduate),haw_pac_total_2018,haw_pac_total
+Native Hawaiian or Other Pacific Islander men (EF2018A_RV  All students  Graduate),haw_pac_men_2018,haw_pac_men
+Native Hawaiian or Other Pacific Islander women (EF2018A_RV  All students  Graduate),haw_pac_women_2018,haw_pac_women
+White total (EF2018A_RV  All students  Graduate),white_total_2018,white_total
+White men (EF2018A_RV  All students  Graduate),white_men_2018,white_men
+White women (EF2018A_RV  All students  Graduate),white_women_2018,white_women
+Two or more races total (EF2018A_RV  All students  Graduate),two_plus_race_total_2018,two_plus_race_total
+Two or more races men (EF2018A_RV  All students  Graduate),two_plus_race_men_2018,two_plus_race_men
+Two or more races women (EF2018A_RV  All students  Graduate),two_plus_race_women_2018,two_plus_race_women
+Race/ethnicity unknown total (EF2018A_RV  All students  Graduate),unk_total_2018,unk_total
+Race/ethnicity unknown men (EF2018A_RV  All students  Graduate),unk_men_2018,unk_men
+Race/ethnicity unknown women (EF2018A_RV  All students  Graduate),unk_women_2018,unk_women
+Nonresident alien total (EF2018A_RV  All students  Graduate),alien_total_2018,alien_total
+Nonresident alien men (EF2018A_RV  All students  Graduate),alien_men_2018,alien_men
+Nonresident alien women (EF2018A_RV  All students  Graduate),alien_women_2018,alien_women
+Grand total (EF2017A_RV  All students  Graduate),grand_total_2017,grand_total
+Grand total men (EF2017A_RV  All students  Graduate),grand_total_men_2017,grand_total_men
+Grand total women (EF2017A_RV  All students  Graduate),grand_total_women_2017,grand_total_women
+American Indian or Alaska Native total (EF2017A_RV  All students  Graduate),am_ind_alaska_total_2017,am_ind_alaska_total
+American Indian or Alaska Native men (EF2017A_RV  All students  Graduate),am_ind_alaska_total_men_2017,am_ind_alaska_total_men
+American Indian or Alaska Native women (EF2017A_RV  All students  Graduate),am_ind_alaska_total_women_2017,am_ind_alaska_total_women
+Asian total (EF2017A_RV  All students  Graduate),asian_total_2017,asian_total
+Asian men (EF2017A_RV  All students  Graduate),asian_men_2017,asian_men
+Asian women (EF2017A_RV  All students  Graduate),asian_women_2017,asian_women
+Black or African American total (EF2017A_RV  All students  Graduate),bl_af_total_2017,bl_af_total
+Black or African American men (EF2017A_RV  All students  Graduate),bl_af_men_2017,bl_af_men
+Black or African American women (EF2017A_RV  All students  Graduate),bl_af_women_2017,bl_af_women
+Hispanic total (EF2017A_RV  All students  Graduate),hisp_total_2017,hisp_total
+Hispanic men (EF2017A_RV  All students  Graduate),hisp_men_2017,hisp_men
+Hispanic women (EF2017A_RV  All students  Graduate),hisp_women_2017,hisp_women
+Native Hawaiian or Other Pacific Islander total (EF2017A_RV  All students  Graduate),haw_pac_total_2017,haw_pac_total
+Native Hawaiian or Other Pacific Islander men (EF2017A_RV  All students  Graduate),haw_pac_men_2017,haw_pac_men
+Native Hawaiian or Other Pacific Islander women (EF2017A_RV  All students  Graduate),haw_pac_women_2017,haw_pac_women
+White total (EF2017A_RV  All students  Graduate),white_total_2017,white_total
+White men (EF2017A_RV  All students  Graduate),white_men_2017,white_men
+White women (EF2017A_RV  All students  Graduate),white_women_2017,white_women
+Two or more races total (EF2017A_RV  All students  Graduate),two_plus_race_total_2017,two_plus_race_total
+Two or more races men (EF2017A_RV  All students  Graduate),two_plus_race_men_2017,two_plus_race_men
+Two or more races women (EF2017A_RV  All students  Graduate),two_plus_race_women_2017,two_plus_race_women
+Race/ethnicity unknown total (EF2017A_RV  All students  Graduate),unk_total_2017,unk_total
+Race/ethnicity unknown men (EF2017A_RV  All students  Graduate),unk_men_2017,unk_men
+Race/ethnicity unknown women (EF2017A_RV  All students  Graduate),unk_women_2017,unk_women
+Nonresident alien total (EF2017A_RV  All students  Graduate),alien_total_2017,alien_total
+Nonresident alien men (EF2017A_RV  All students  Graduate),alien_men_2017,alien_men
+Nonresident alien women (EF2017A_RV  All students  Graduate),alien_women_2017,alien_women
+Unnamed: 152,,
+Institution Name_merged,,
+Total price for in-district students living on campus  2021-22 (DRVIC2021),price_in_dist_on_campus_2021,price_in_dist_on_campus
+Total price for in-state students living on campus 2021-22 (DRVIC2021),price_in_st_on_campus_2021,price_in_st_on_campus
+Total price for out-of-state students living on campus 2021-22 (DRVIC2021),price_out_st_on_campus_2021,price_out_st_on_campus
+Total price for in-district students living off campus (not with family)  2021-22 (DRVIC2021),price_in_dist_off_campus_2021,price_in_dist_off_campus
+Total price for in-state students living off campus (not with family)  2021-22 (DRVIC2021),price_in_st_off_campus_2021,price_in_st_off_campus
+Total price for out-of-state students living off campus (not with family)  2021-22 (DRVIC2021),price_out_st_off_campus_2021,price_out_st_off_campus
+Total price for in-district students living off campus (with family)  2021-22 (DRVIC2021),price_in_dist_off_campus_family_2021,price_in_dist_off_campus_family
+Total price for in-state students living off campus (with family)  2021-22 (DRVIC2021),price_in_st_off_campus_family_2021,price_in_st_off_campus_family
+Total price for out-of-state students living off campus (with family)  2021-22 (DRVIC2021),price_out_st_off_campus_family_2021,price_out_st_off_campus_family
+Off campus (not with family)  other expenses 2021-22 (IC2021_PY),price_other_off_campus_2021,price_other_off_campus
+Off campus (not with family)  room and board 2021-22 (IC2021_PY),price_room_and_board_off_campus_2021,price_room_and_board_off_campus
+On campus  other expenses 2021-22 (IC2021_PY),price_other_off_campus_family_2021,price_other_off_campus_family
+On campus  room and board 2021-22 (IC2021_PY),price_room_and_board_off_campus_family_2021,price_room_and_board_off_campus_family
+Undergraduate application fee (IC2021),,
+Graduate application fee (IC2021),,
+Total price for in-district students living on campus  2020-21 (DRVIC2020),price_in_dist_on_campus_2020,price_in_dist_on_campus
+Total price for in-state students living on campus 2020-21 (DRVIC2020),price_in_st_on_campus_2020,price_in_st_on_campus
+Total price for out-of-state students living on campus 2020-21 (DRVIC2020),price_out_st_on_campus_2020,price_out_st_on_campus
+Total price for in-district students living off campus (not with family)  2020-21 (DRVIC2020),price_in_dist_off_campus_2020,price_in_dist_off_campus
+Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020),price_in_st_off_campus_2020,price_in_st_off_campus
+Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020),price_out_st_off_campus_2020,price_out_st_off_campus
+Total price for in-district students living off campus (with family)  2020-21 (DRVIC2020),price_in_dist_off_campus_family_2020,price_in_dist_off_campus_family
+Total price for in-state students living off campus (with family)  2020-21 (DRVIC2020),price_in_st_off_campus_family_2020,price_in_st_off_campus_family
+Total price for out-of-state students living off campus (with family)  2020-21 (DRVIC2020),price_out_st_off_campus_family_2020,price_out_st_off_campus_family
+Off campus (not with family)  other expenses 2020-21 (IC2020_PY),price_other_off_campus_2020,price_other_off_campus
+Off campus (not with family)  room and board 2020-21 (IC2020_PY),price_room_and_board_off_campus_2020,price_room_and_board_off_campus
+On campus  other expenses 2020-21 (IC2020_PY),price_other_off_campus_family_2020,price_other_off_campus_family
+On campus  room and board 2020-21 (IC2020_PY),price_room_and_board_off_campus_family_2020,price_room_and_board_off_campus_family
+Undergraduate application fee (IC2020),,
+Graduate application fee (IC2020),,
+Total price for in-district students living on campus  2019-20 (DRVIC2019),price_in_dist_on_campus_2019,price_in_dist_on_campus
+Total price for in-state students living on campus 2019-20 (DRVIC2019),price_in_st_on_campus_2019,price_in_st_on_campus
+Total price for out-of-state students living on campus 2019-20 (DRVIC2019),price_out_st_on_campus_2019,price_out_st_on_campus
+Total price for in-district students living off campus (not with family)  2019-20 (DRVIC2019),price_in_dist_off_campus_2019,price_in_dist_off_campus
+Total price for in-state students living off campus (not with family)  2019-20 (DRVIC2019),price_in_st_off_campus_2019,price_in_st_off_campus
+Total price for out-of-state students living off campus (not with family)  2019-20 (DRVIC2019),price_out_st_off_campus_2019,price_out_st_off_campus
+Total price for in-district students living off campus (with family)  2019-20 (DRVIC2019),price_in_dist_off_campus_family_2019,price_in_dist_off_campus_family
+Total price for in-state students living off campus (with family)  2019-20 (DRVIC2019),price_in_st_off_campus_family_2019,price_in_st_off_campus_family
+Total price for out-of-state students living off campus (with family)  2019-20 (DRVIC2019),price_out_st_off_campus_family_2019,price_out_st_off_campus_family
+Off campus (not with family)  other expenses 2019-20 (IC2019_PY),price_other_off_campus_2019,price_other_off_campus
+Off campus (not with family)  room and board 2019-20 (IC2019_PY),price_room_and_board_off_campus_2019,price_room_and_board_off_campus
+On campus  other expenses 2019-20 (IC2019_PY),price_other_off_campus_family_2019,price_other_off_campus_family
+On campus  room and board 2019-20 (IC2019_PY),price_room_and_board_off_campus_family_2019,price_room_and_board_off_campus_family
+Undergraduate application fee (IC2019),,
+Graduate application fee (IC2019),,
+Total price for in-district students living on campus  2018-19 (DRVIC2018),price_in_dist_on_campus_2018,price_in_dist_on_campus
+Total price for in-state students living on campus 2018-19 (DRVIC2018),price_in_st_on_campus_2018,price_in_st_on_campus
+Total price for out-of-state students living on campus 2018-19 (DRVIC2018),price_out_st_on_campus_2018,price_out_st_on_campus
+Total price for in-district students living off campus (not with family)  2018-19 (DRVIC2018),price_in_dist_off_campus_2018,price_in_dist_off_campus
+Total price for in-state students living off campus (not with family)  2018-19 (DRVIC2018),price_in_st_off_campus_2018,price_in_st_off_campus
+Total price for out-of-state students living off campus (not with family)  2018-19 (DRVIC2018),price_out_st_off_campus_2018,price_out_st_off_campus
+Total price for in-district students living off campus (with family)  2018-19 (DRVIC2018),price_in_dist_off_campus_family_2018,price_in_dist_off_campus_family
+Total price for in-state students living off campus (with family)  2018-19 (DRVIC2018),price_in_st_off_campus_family_2018,price_in_st_off_campus_family
+Total price for out-of-state students living off campus (with family)  2018-19 (DRVIC2018),price_out_st_off_campus_family_2018,price_out_st_off_campus_family
+Off campus (not with family)  other expenses 2018-19 (IC2018_PY),price_other_off_campus_2018,price_other_off_campus
+Off campus (not with family)  room and board 2018-19 (IC2018_PY),price_room_and_board_off_campus_2018,price_room_and_board_off_campus
+On campus  other expenses 2018-19 (IC2018_PY),price_other_off_campus_family_2018,price_other_off_campus_family
+On campus  room and board 2018-19 (IC2018_PY),price_room_and_board_off_campus_family_2018,price_room_and_board_off_campus_family
+Undergraduate application fee (IC2018),,
+Graduate application fee (IC2018),,
+Total price for in-district students living on campus  2017-18 (DRVIC2017),price_in_dist_on_campus_2017,price_in_dist_on_campus
+Total price for in-state students living on campus 2017-18 (DRVIC2017),price_in_st_on_campus_2017,price_in_st_on_campus
+Total price for out-of-state students living on campus 2017-18 (DRVIC2017),price_out_st_on_campus_2017,price_out_st_on_campus
+Total price for in-district students living off campus (not with family)  2017-18 (DRVIC2017),price_in_dist_off_campus_2017,price_in_dist_off_campus
+Total price for in-state students living off campus (not with family)  2017-18 (DRVIC2017),price_in_st_off_campus_2017,price_in_st_off_campus
+Total price for out-of-state students living off campus (not with family)  2017-18 (DRVIC2017),price_out_st_off_campus_2017,price_out_st_off_campus
+Total price for in-district students living off campus (with family)  2017-18 (DRVIC2017),price_in_dist_off_campus_family_2017,price_in_dist_off_campus_family
+Total price for in-state students living off campus (with family)  2017-18 (DRVIC2017),price_in_st_off_campus_family_2017,price_in_st_off_campus_family
+Total price for out-of-state students living off campus (with family)  2017-18 (DRVIC2017),price_out_st_off_campus_family_2017,price_out_st_off_campus_family
+Off campus (not with family)  other expenses 2017-18 (IC2017_PY),price_other_off_campus_2017,price_other_off_campus
+Off campus (not with family)  room and board  2017-18 (IC2017_PY),price_room_and_board_off_campus_2017,price_room_and_board_off_campus
+On campus  other expenses 2017-18 (IC2017_PY),price_other_off_campus_family_2017,price_other_off_campus_family
+On campus  room and board 2017-18 (IC2017_PY),price_room_and_board_off_campus_family_2017,price_room_and_board_off_campus_family
+Unnamed: 75,,
+Institution Name,,
+Institution (entity) name (HD2021),,
+Institution name alias (HD2021),name_alias,name_alias
+City location of institution (HD2021),city,city
+State abbreviation (HD2021),state,state
+ZIP code (HD2021),zip_code,zip_code
+Institutional category (HD2021),category,category
+Highest level of offering (HD2021),,
+Undergraduate offering (HD2021),,
+Graduate offering (HD2021),,

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Flask
+instance/
+webassets-manifest.*
+compass-backend
+
+# IDE
+.vscode/
+*.idea/
+
+# Other
+*.bak
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
