@@ -1,7 +1,29 @@
-from flask import Blueprint
+import csv
+from flask import Blueprint, jsonify, request
 
 dashboard = Blueprint("dashboard", __name__)
 
-@dashboard.route("/")
-def hello():
-    return "Hello World"
+@dashboard.route('/map_data', methods=['GET'])
+def get_colleges():
+    # Get the unit_ids parameter from the request
+    unit_ids = request.args.get('unit_ids', '').split(',')
+    unit_ids = [uid.strip() for uid in unit_ids if uid.strip()]
+
+    # Open the CSV file and extract the data
+    with open('static/with_missing_values/combined_with_lat_long.csv', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        colleges = []
+        for row in reader:
+            if not unit_ids or row['unit_id'] in unit_ids:
+                college = {
+                    'unit_id': int(row['unit_id']),
+                    'name': row['name'],
+                    'population': row['grand_total_2021'],
+                    'latitude': float(row['latitude']),
+                    'longitude': float(row['longitude'])
+                }
+                colleges.append(college)
+
+    # Return the JSON response
+    response = {'colleges': colleges}
+    return jsonify(response)
