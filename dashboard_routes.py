@@ -30,6 +30,11 @@ def get_colleges():
 
 
 
+import csv
+from flask import Blueprint, jsonify, request
+
+dashboard = Blueprint("dashboard", __name__)
+
 @dashboard.route('/bar_chart_data', methods=['GET'])
 def get_bar_chart_data():
     unit_ids = request.args.get('unit_ids', '').split(',')
@@ -47,19 +52,31 @@ def get_bar_chart_data():
             unit_id = row['unit_id']
             all_unit_ids.add(unit_id)
             if not unit_ids or unit_id in unit_ids:
-                if unit_id not in bar_chart_data:
-                    bar_chart_data[unit_id] = {
-                        'applicants': {'men': 0, 'women': 0},
-                        'admissions': {'men': 0, 'women': 0},
-                        'enrollments': {'men': 0, 'women': 0}
-                    }
                 for year in years:
-                    for category in ['applicants', 'admissions', 'enrollments']:
-                        bar_chart_data[unit_id][category]['men'] += int(row[f"{category}_men_{year}"]) / len(years)
-                        bar_chart_data[unit_id][category]['women'] += int(row[f"{category}_women_{year}"]) / len(years)
+                    if year not in bar_chart_data:
+                        bar_chart_data[year] = {
+                            'applicants': {'men': 0, 'women': 0},
+                            'admissions': {'men': 0, 'women': 0},
+                            'enrollments': {'men': 0, 'women': 0}
+                        }
+                    bar_chart_data[year]['applicants']['men'] += int(row[f"applicants_men_{year}"])
+                    bar_chart_data[year]['applicants']['women'] += int(row[f"applicants_women_{year}"])
+                    bar_chart_data[year]['admissions']['men'] += int(row[f"admissions_men_{year}"])
+                    bar_chart_data[year]['admissions']['women'] += int(row[f"admissions_women_{year}"])
+                    bar_chart_data[year]['enrollments']['men'] += int(row[f"enrollments_men_{year}"])
+                    bar_chart_data[year]['enrollments']['women'] += int(row[f"enrollments_women_{year}"])
 
-    if not input_unit_ids_set.intersection(all_unit_ids):
-        return jsonify(bar_chart_data)
-    else:
-        filtered_data = {uid: bar_chart_data[uid] for uid in unit_ids if uid in bar_chart_data}
-        return jsonify(filtered_data)
+        if unit_ids:
+            total_ids = len(unit_ids)
+        else:
+            total_ids = len(all_unit_ids)
+
+        for year in bar_chart_data:
+            for category in bar_chart_data[year]:
+                bar_chart_data[year][category]['men'] /= total_ids
+                bar_chart_data[year][category]['women'] /= total_ids
+                bar_chart_data[year][category]['men'] = "{:.2f}".format(bar_chart_data[year][category]['men'])
+                bar_chart_data[year][category]['women'] = "{:.2f}".format(bar_chart_data[year][category]['women'])
+
+    return jsonify(bar_chart_data)
+
