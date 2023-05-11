@@ -27,3 +27,13 @@ def get_colleges():
     # Return the JSON response
     response = {'colleges': colleges}
     return jsonify(response)
+
+@dashboard.route('/all_unit_ids', methods=['GET'])
+def get_all_unit_ids():
+
+    with open('static/complete_dataset_final.csv', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        unit_ids = [row['unit_id'] for row in reader]
+    
+    response = {'unit_ids': unit_ids}
+    return jsonify(response)
