@@ -48,7 +48,7 @@ def get_bar_chart_data():
 
     with open('static/complete_dataset_final.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
-        years = ["2021", "2020", "2019", "2018", "2017"]
+        years = ["2017", "2018", "2019", "2020", "2021"]
 
         response = []
 
