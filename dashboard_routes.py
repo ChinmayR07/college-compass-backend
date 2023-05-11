@@ -100,4 +100,4 @@ def filter_rows(unit_ids, reader):
     for row in reader:
         if row['unit_id'] in unit_ids:
             rows.append(row)
-    rows
+    return rows
