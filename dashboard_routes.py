@@ -80,3 +80,5 @@ def get_bar_chart_data():
 
     return jsonify(bar_chart_data)
 
+
+
