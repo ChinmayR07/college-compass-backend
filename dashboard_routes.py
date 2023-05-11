@@ -41,6 +41,7 @@ def get_all_unit_ids():
     return jsonify(response)
 
 
+
 @dashboard.route('/bar_chart_data', methods=['GET'])
 def get_bar_chart_data():
     unit_ids = request.args.get('unit_ids', '').split(',')
@@ -101,3 +102,55 @@ def filter_rows(unit_ids, reader):
         if row['unit_id'] in unit_ids:
             rows.append(row)
     return rows
+
+
+
+@dashboard.route('/average_price_data', methods=['GET'])
+def get_average_price_data():
+    unit_ids = request.args.get('unit_ids', '').split(',')
+    unit_ids = [uid.strip() for uid in unit_ids if uid.strip()]
+
+    with open('static/complete_dataset_final.csv', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        years = ["2017", "2018", "2019", "2020", "2021"]
+
+        tuition = {
+            'avg_in_dist_on_campus': {year: [] for year in years},
+            'avg_in_st_on_campus': {year: [] for year in years},
+            'avg_out_st_on_campus': {year: [] for year in years},
+            'avg_in_dist_off_campus': {year: [] for year in years},
+            'avg_in_st_off_campus': {year: [] for year in years},
+            'avg_out_st_off_campus': {year: [] for year in years}
+        }
+
+        filtered_rows = filter_rows(unit_ids, reader)
+
+        for row in filtered_rows:
+            for year in years:
+                tuition['avg_in_dist_on_campus'][year].append(float(row[f'price_in_dist_on_campus_{year}']))
+                tuition['avg_in_st_on_campus'][year].append(float(row[f'price_in_st_on_campus_{year}']))
+                tuition['avg_out_st_on_campus'][year].append(float(row[f'price_out_st_on_campus_{year}']))
+                
+                tuition['avg_in_dist_off_campus'][year].append(
+                    (float(row[f'price_in_dist_off_campus_{year}']) + float(row[f'price_in_dist_off_campus_family_{year}'])) / 2
+                )
+                tuition['avg_in_st_off_campus'][year].append(
+                    (float(row[f'price_in_st_off_campus_{year}']) + float(row[f'price_in_st_off_campus_family_{year}'])) / 2
+                )
+                tuition['avg_out_st_off_campus'][year].append(
+                    (float(row[f'price_out_st_off_campus_{year}']) + float(row[f'price_out_st_off_campus_family_{year}'])) / 2
+                )
+
+        response = {}
+        for key in tuition.keys():
+            response[key] = [
+                {'year': year, 'cost': round(sum(tuition[key][year])/len(tuition[key][year]), 2) if tuition[key][year] else 0}
+                for year in years
+            ]
+
+    return response
+        
+        
+        
+
+
