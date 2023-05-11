@@ -10,7 +10,7 @@ def get_colleges():
     unit_ids = [uid.strip() for uid in unit_ids if uid.strip()]
 
     # Open the CSV file and extract the data
-    with open('static/with_missing_values/combined_with_lat_long.csv', newline='') as csvfile:
+    with open('static/complete_dataset_final.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         colleges = []
         for row in reader:
