@@ -5,5 +5,3 @@ from dashboard_routes import dashboard
 app = Flask(__name__)
 CORS(app)
 app.register_blueprint(dashboard)
-
-app.run(port=6969, debug=True)
