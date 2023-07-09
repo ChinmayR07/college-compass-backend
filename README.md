@@ -31,15 +31,11 @@ The backend follows a standard Flask application structure:
 
 ## Running the Application
 
-Once you've set up the virtual environment and environment variables, you can run the application using the following command: `flask run`
+Once you've set up the virtual environment and environment variables, you can run the application using the following command: `python wsgi.py --env env_name` where `env_name` could be any one of `local` or `production`.
 
-By default, this will start the application on port `5000`.
+Depending on which environment you specify, the server will either launch in a local flask instance or a production-ready wsgi instance.
 
-or
-
-To start the Flask server, run the following command in the terminal: `python python run.py`
-
-This will start the server at `http://localhost:6969`.
+For more help regarding the run command, please run the following command: `python wsgi.py --help`
 
 
 ## API Endpoints
